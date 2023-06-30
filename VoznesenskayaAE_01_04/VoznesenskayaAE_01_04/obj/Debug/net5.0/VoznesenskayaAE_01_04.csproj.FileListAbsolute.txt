@@ -1,0 +1,12 @@
+C:\examvoz\VoznesenskayaAE_01_04\bin\Debug\net5.0\VoznesenskayaAE_01_04.deps.json
+C:\examvoz\VoznesenskayaAE_01_04\bin\Debug\net5.0\VoznesenskayaAE_01_04.dll
+C:\examvoz\VoznesenskayaAE_01_04\bin\Debug\net5.0\ref\VoznesenskayaAE_01_04.dll
+C:\examvoz\VoznesenskayaAE_01_04\bin\Debug\net5.0\VoznesenskayaAE_01_04.pdb
+C:\examvoz\VoznesenskayaAE_01_04\obj\Debug\net5.0\VoznesenskayaAE_01_04.csproj.AssemblyReference.cache
+C:\examvoz\VoznesenskayaAE_01_04\obj\Debug\net5.0\VoznesenskayaAE_01_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\examvoz\VoznesenskayaAE_01_04\obj\Debug\net5.0\VoznesenskayaAE_01_04.AssemblyInfoInputs.cache
+C:\examvoz\VoznesenskayaAE_01_04\obj\Debug\net5.0\VoznesenskayaAE_01_04.AssemblyInfo.cs
+C:\examvoz\VoznesenskayaAE_01_04\obj\Debug\net5.0\VoznesenskayaAE_01_04.csproj.CoreCompileInputs.cache
+C:\examvoz\VoznesenskayaAE_01_04\obj\Debug\net5.0\VoznesenskayaAE_01_04.dll
+C:\examvoz\VoznesenskayaAE_01_04\obj\Debug\net5.0\ref\VoznesenskayaAE_01_04.dll
+C:\examvoz\VoznesenskayaAE_01_04\obj\Debug\net5.0\VoznesenskayaAE_01_04.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VoznesenskayaAE_01_04/1.0.0": {
+        "runtime": {
+          "VoznesenskayaAE_01_04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VoznesenskayaAE_01_04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

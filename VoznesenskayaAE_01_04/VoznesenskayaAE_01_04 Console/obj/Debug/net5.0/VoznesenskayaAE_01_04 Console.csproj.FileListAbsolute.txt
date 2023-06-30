@@ -1,0 +1,19 @@
+C:\examvoz\VoznesenskayaAE_01_04 Console\bin\Debug\net5.0\VoznesenskayaAE_01_04 Console.exe
+C:\examvoz\VoznesenskayaAE_01_04 Console\bin\Debug\net5.0\VoznesenskayaAE_01_04 Console.deps.json
+C:\examvoz\VoznesenskayaAE_01_04 Console\bin\Debug\net5.0\VoznesenskayaAE_01_04 Console.runtimeconfig.json
+C:\examvoz\VoznesenskayaAE_01_04 Console\bin\Debug\net5.0\VoznesenskayaAE_01_04 Console.runtimeconfig.dev.json
+C:\examvoz\VoznesenskayaAE_01_04 Console\bin\Debug\net5.0\VoznesenskayaAE_01_04 Console.dll
+C:\examvoz\VoznesenskayaAE_01_04 Console\bin\Debug\net5.0\ref\VoznesenskayaAE_01_04 Console.dll
+C:\examvoz\VoznesenskayaAE_01_04 Console\bin\Debug\net5.0\VoznesenskayaAE_01_04 Console.pdb
+C:\examvoz\VoznesenskayaAE_01_04 Console\bin\Debug\net5.0\VoznesenskayaAE_01_04.dll
+C:\examvoz\VoznesenskayaAE_01_04 Console\bin\Debug\net5.0\VoznesenskayaAE_01_04.pdb
+C:\examvoz\VoznesenskayaAE_01_04 Console\obj\Debug\net5.0\VoznesenskayaAE_01_04 Console.csproj.AssemblyReference.cache
+C:\examvoz\VoznesenskayaAE_01_04 Console\obj\Debug\net5.0\VoznesenskayaAE_01_04 Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\examvoz\VoznesenskayaAE_01_04 Console\obj\Debug\net5.0\VoznesenskayaAE_01_04 Console.AssemblyInfoInputs.cache
+C:\examvoz\VoznesenskayaAE_01_04 Console\obj\Debug\net5.0\VoznesenskayaAE_01_04 Console.AssemblyInfo.cs
+C:\examvoz\VoznesenskayaAE_01_04 Console\obj\Debug\net5.0\VoznesenskayaAE_01_04 Console.csproj.CoreCompileInputs.cache
+C:\examvoz\VoznesenskayaAE_01_04 Console\obj\Debug\net5.0\VoznesenskayaAE_01_04 Console.csproj.CopyComplete
+C:\examvoz\VoznesenskayaAE_01_04 Console\obj\Debug\net5.0\VoznesenskayaAE_01_04 Console.dll
+C:\examvoz\VoznesenskayaAE_01_04 Console\obj\Debug\net5.0\ref\VoznesenskayaAE_01_04 Console.dll
+C:\examvoz\VoznesenskayaAE_01_04 Console\obj\Debug\net5.0\VoznesenskayaAE_01_04 Console.pdb
+C:\examvoz\VoznesenskayaAE_01_04 Console\obj\Debug\net5.0\VoznesenskayaAE_01_04 Console.genruntimeconfig.cache
